@@ -1,0 +1,16 @@
+{
+  "name": "learn-english",
+  "version": "1.0.0",
+  "description": "学习英语笔记",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "publish": "deploy.sh"
+  },
+  "author": "wangjp",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
