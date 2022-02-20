@@ -8,6 +8,8 @@ module.exports = {
         sidebar: [
             ['/', '简介'],
             ['/句子组成', '句子组成'],
+            ['/名词', '名词'],
+            ['/代词', '代词'],
         ],
         displayAllHeaders: true,
         smoothScroll: true,

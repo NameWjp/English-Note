@@ -1,7 +1,7 @@
 {
-  "name": "learn-english",
+  "name": "english-note",
   "version": "1.0.0",
-  "description": "学习英语笔记",
+  "description": "英语笔记",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
