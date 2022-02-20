@@ -1,6 +1,6 @@
 module.exports = {
-    base: '/learn-english/',
-    title: '学习英语笔记',
+    base: '/English-Note/',
+    title: '英语笔记',
     head: [
         ['meta', { name: 'referrer', content: 'no-referrer' }],
     ],
