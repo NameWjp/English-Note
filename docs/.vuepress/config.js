@@ -10,8 +10,9 @@ module.exports = {
             ['/句子组成', '句子组成'],
             ['/名词', '名词'],
             ['/代词', '代词'],
+            ['/形容词', '形容词'],
         ],
-        displayAllHeaders: true,
+        displayAllHeaders: false,
         smoothScroll: true,
     }
 }
