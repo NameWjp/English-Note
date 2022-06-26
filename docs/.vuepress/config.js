@@ -12,6 +12,7 @@ module.exports = {
             ['/代词', '代词'],
             ['/形容词', '形容词'],
             ['/动词', '动词'],
+            ['/冠词', '冠词'],
         ],
         displayAllHeaders: false,
         smoothScroll: true,
